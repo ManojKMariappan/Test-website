@@ -5,3 +5,6 @@
 2. Open TestRunner class file
 3. Click Run TestRunner class to run all the features
 
+Execution Report Screenshots:
+
+![image](https://user-images.githubusercontent.com/86073884/127756164-eca63468-dcba-400d-9112-1741fc85efc0.png)
